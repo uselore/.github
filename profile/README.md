@@ -6,13 +6,6 @@ Matcha is a revolutionary note-taking application that seamlessly integrates you
 
 ## ✨ Key Features
 
-### 🤖 Multiple AI Models
-Access industry-leading AI models all in one place:
-- **Claude Sonnet 4.5** - Best for code generation (95.2% benchmark)
-- **GPT 5** - In-depth responses (92.1% benchmark)
-- **Gemini 2.5** - Creative insights (90.3% benchmark)
-- **Grok 4** - Creative writing (88.7% benchmark)
-
 ### 🧠 Smart AI Workflow
 - **Auto Model Selection** - Intelligent system analyzes your notes and selects the perfect AI model
 - **Real-time Processing** - Live AI processing with minimal latency (1.2s average)
