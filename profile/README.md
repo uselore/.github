@@ -65,6 +65,6 @@ Your data security is our priority:
 
 Copyright © 2025 Matcha Note, LLC. All rights reserved.
 
-- [Privacy Policy](./PRIVACY.md)
-- [Terms of Service](./TERMS.md)
+- [Privacy Policy](https://matchanote.app/privacy-policy)
+- [Terms of Service](https://matchanote.app/terms-of-service)
 
