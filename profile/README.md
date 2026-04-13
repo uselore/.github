@@ -1,7 +1,5 @@
 # Lore
 
-## About
-
 **Lore** is an intelligent, AI-powered knowledge management platform designed specifically for engineering and operations teams. It serves as your organization's continuous memory, automatically capturing and transforming daily workflows into a searchable, trusted knowledge base.
 
 Instead of writing documentation after the fact, Lore seamlessly integrates with your existing developer tools to make documentation a byproduct of your work:
